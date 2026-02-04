@@ -1,3 +1,11 @@
+/*
+	@title: Virus Run
+	@author: david
+	@description: An endless scroller game where you have to dodge viruses
+	@tags: ['scroller', 'endless']
+	@addedOn: 2026-02-04
+*/
+
 //sprites
 setLegend(
 ["p", bitmap`
