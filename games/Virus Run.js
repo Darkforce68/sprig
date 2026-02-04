@@ -1,8 +1,3 @@
-/*
-@title Virus Spread (Bottom Score Fix)
-@author you
-*/
-
 //sprites
 setLegend(
 ["p", bitmap`
